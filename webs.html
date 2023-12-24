@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Website Title</title>
+    <style>
+        /* Add your CSS styles here */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        header, footer {
+            background-color: #f7cef0;
+            color: #382e2e;
+            padding: 10px;
+            text-align: center;
+        }
+        section {
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Gugugaga</h1>
+    </header>
+
+    <nav>
+        <!-- Add your navigation links here -->
+        <ul>
+            <li><a href="https://music.youtube.com/watch?v=HpYdA-06jTc&si=5Iopp6kCXn9b0htw" target="_blank">Listen to Music 1</a></li>
+            <li><a href="https://music.youtube.com/watch?v=Vs64cZbeY88&si=KNCdKrn4CZ--g6pg" target="_blank">Listen to Music 2</a></li>
+            <li><a href="https://music.youtube.com/watch?v=w6Y8fvBczYM&si=rZU4zhjt--JdfkUG" target="_blank">Listen to Music 3</a></li>
+            <li><a href="https://music.youtube.com/watch?v=0QO5_QGS5ds&si=NetlYvpJpjMhUj5l" target="_blank">Listen to Music 4</a></li>
+        </ul>
+    </nav>
+
+    <section>
+        <h2>Hello sweetie!</h2>
+        <p>This is a simple HTML website created using Visual Studio Code.</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 Your Website. All rights reserved to do whatever.</p>
+    </footer>
+
+</body>
+</html>
